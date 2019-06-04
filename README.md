@@ -6,6 +6,12 @@
 npm install
 ```
 
+## compile
+
+```cli
+npm run assets-watch
+```
+
 ## Run
 
 ```cli
